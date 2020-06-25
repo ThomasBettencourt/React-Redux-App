@@ -1,7 +1,7 @@
 import React from "react";
 import { connect } from "react-redux";
-
 import { getData } from "../actions";
+// import 
 
 const CatsList = props => {
     //console.log("Cats List ~ ", props);
